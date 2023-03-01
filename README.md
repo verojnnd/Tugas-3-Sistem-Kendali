@@ -3,7 +3,7 @@
 Veronika Juninda
 21/474552/PA/20495
 
-# Penjelsan Kode
+# Penjelasan Kode
 
 - !pip install tbcontrol --digunakan untuk mengintal package bernama tbcontrol, dimana package tersebut berguna untuk mengolah data terkait dinamika dan kontrol/kendali
 - import sympy
